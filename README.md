@@ -17,7 +17,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tahatanvir-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahatanvir)
 [![Email](https://img.shields.io/badge/Email-tahatanvir605%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tahatanvir605@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-00FF94?style=flat-square&logo=googlemaps&logoColor=black)](https://maps.google.com/?q=Lahore,Pakistan)
-
+![Profile Views](https://komarev.com/ghpvc/?username=TahaUser5&style=flat-square&color=6D28D9&label=Profile+Views)
+![Years Badge](https://badges.pufler.dev/years/TahaUser5?style=flat-square&color=00FF94&labelColor=000000)
+![Repos Badge](https://badges.pufler.dev/repos/TahaUser5?style=flat-square&color=6D28D9&labelColor=000000)
 </div>
 
 ---
@@ -213,6 +215,10 @@ Comparative study of RNN baseline vs CLIP+GPT-2 vs BLIP on Flickr30K. Demonstrat
 ```
 
 ---
+
+## `> trophy_case`
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=TahaUser5&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
 ## `> cat stats.json`
 
