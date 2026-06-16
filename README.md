@@ -114,7 +114,7 @@ Context Precision:  ~1.0  ████████████
 
 `Python` `LangChain` `Pinecone` `Cohere` `Groq` `FastAPI` `Docker`
 
-> 🔒 Private — monetization in progress
+> 🔒 Private 
 
 </td>
 <td width="50%">
