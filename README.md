@@ -235,6 +235,6 @@ Comparative study of RNN baseline vs CLIP+GPT-2 vs BLIP on Flickr30K. Demonstrat
 
 *Currently open to AI Engineer and Full Stack roles in Lahore and Dubai.*
 
-[![Portfolio](https://img.shields.io/badge/→_See_My_Work-taha--portfolio--seven--sigma.vercel.app-6D28D9?style=for-the-badge&logoColor=white)](https://tahatanvir-dev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/→_See_My_Work-taha--portfolio.vercel.app-6D28D9?style=for-the-badge&logoColor=white)](https://tahatanvir-dev.vercel.app)
 
 </div>
