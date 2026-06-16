@@ -30,7 +30,7 @@ Currently completing my MPhil in AI at PUCIT while building RAG systems sophisti
 
 **What I'm working on:** RAG Knowledge Base System — hybrid BM25 + dense vector search, Cohere reranking, RAGAS-evaluated (Faithfulness 1.0)
 
-**Where I'm headed:** AI Engineer roles in Lahore → Dubai → Ireland
+**Where I'm headed:** AI Engineer roles in Lahore → Dubai
 
 ---
 
