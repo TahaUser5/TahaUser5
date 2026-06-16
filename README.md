@@ -9,11 +9,11 @@
 ```
 
 # Taha Tanvir
-### AI Engineer · RAG Specialist · Full Stack Developer
+### AI Engineer · Generative AI · Machine Learning · Full Stack
 
 *MPhil Artificial Intelligence @ PUCIT, University of the Punjab*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-taha--portfolio--seven--sigma.vercel.app-6D28D9?style=flat-square&logo=vercel&logoColor=white)](https://tahatanvir-dev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tahatanvir--dev.vercel.app-6D28D9?style=flat-square&logo=vercel&logoColor=white)](https://tahatanvir-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tahatanvir-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahatanvir)
 [![Email](https://img.shields.io/badge/Email-tahatanvir605%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tahatanvir605@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-00FF94?style=flat-square&logo=googlemaps&logoColor=black)](https://maps.google.com/?q=Lahore,Pakistan)
@@ -24,17 +24,41 @@
 
 ## `> whoami`
 
-I build production-grade AI systems — not demos, not notebooks, not proofs of concept. Real pipelines with evaluation frameworks, real retrieval that doesn't hallucinate, real deployments that stay up.
+I work across the full AI stack — from training deep learning models and fine-tuning diffusion systems, to building production RAG pipelines and shipping full-stack applications. RAG is my deepest speciality but not my only gear.
 
-Currently completing my MPhil in AI at PUCIT while building RAG systems sophisticated enough to become a product. My strongest work sits at the intersection of information retrieval, LLMs, and backend engineering.
+Currently completing my MPhil in AI at PUCIT. I care about one thing: AI that actually works when you deploy it — evaluated, observable, and production-ready.
 
-**What I'm working on:** RAG Knowledge Base System — hybrid BM25 + dense vector search, Cohere reranking, RAGAS-evaluated (Faithfulness 1.0)
-
-**Where I'm headed:** AI Engineer roles in Lahore → Dubai
+```
+Current focus:  Production RAG · Generative AI · Multimodal Systems
+Background:     Full Stack Engineering (MERN · FastAPI · Flutter)  
+Research:       Published HAR paper · CNN-LSTM multimodal fusion
+Next stop:      AI Engineer roles — Lahore → Dubai → Ireland
+```
 
 ---
 
 ## `> tech_stack --list`
+
+**AI & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![CNN](https://img.shields.io/badge/CNN-Vision-EE4C2C?style=flat-square&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-Sequence-6D28D9?style=flat-square&logoColor=white)
+![GRU](https://img.shields.io/badge/GRU-Sequence-6D28D9?style=flat-square&logoColor=white)
+![ViT](https://img.shields.io/badge/ViT-Transformer-00B388?style=flat-square&logoColor=white)
+![Swin](https://img.shields.io/badge/Swin-Transformer-0467DF?style=flat-square&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-Production-00FF94?style=flat-square&logoColor=black)
+
+**Generative AI**
+
+![Diffusers](https://img.shields.io/badge/Diffusers-SDXL_LoRA-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![DreamBooth](https://img.shields.io/badge/DreamBooth-Few--Shot-6D28D9?style=flat-square&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-XL-EE4C2C?style=flat-square&logoColor=white)
+![CLIP](https://img.shields.io/badge/CLIP-Multimodal-00B388?style=flat-square&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA-Fine--Tuning-6D28D9?style=flat-square&logoColor=white)
+![TTS](https://img.shields.io/badge/TTS-Voice_Cloning-00FF94?style=flat-square&logoColor=black)
 
 **RAG & Information Retrieval**
 
@@ -44,24 +68,7 @@ Currently completing my MPhil in AI at PUCIT while building RAG systems sophisti
 ![FAISS](https://img.shields.io/badge/FAISS-Dense_Search-0467DF?style=flat-square&logoColor=white)
 ![BM25](https://img.shields.io/badge/BM25-Hybrid_Search-6D28D9?style=flat-square&logoColor=white)
 ![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-00FF94?style=flat-square&logoColor=black)
-![TF--IDF](https://img.shields.io/badge/TF--IDF-Retrieval-6B7280?style=flat-square&logoColor=white)
-
-**Generative AI & LLMs**
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Diffusers](https://img.shields.io/badge/Diffusers-SDXL_LoRA-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![DreamBooth](https://img.shields.io/badge/DreamBooth-Few--Shot-6D28D9?style=flat-square&logoColor=white)
-![CLIP](https://img.shields.io/badge/CLIP-Multimodal-00B388?style=flat-square&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-XL-EE4C2C?style=flat-square&logoColor=white)
-
-**Deep Learning & Computer Vision**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-Vision-EE4C2C?style=flat-square&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM-Sequence-6D28D9?style=flat-square&logoColor=white)
-![ViT](https://img.shields.io/badge/ViT-Transformer-00B388?style=flat-square&logoColor=white)
-![Swin](https://img.shields.io/badge/Swin-Transformer-0467DF?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-Inference-F55036?style=flat-square&logoColor=white)
 
 **Backend & Infrastructure**
 
@@ -75,8 +82,8 @@ Currently completing my MPhil in AI at PUCIT while building RAG systems sophisti
 
 **Web & Mobile**
 
-![React](https://img.shields.io/badge/React.js-18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-14_App_Router-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React.js-18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -105,7 +112,7 @@ Faithfulness:       1.0   ████████████
 Context Precision:  ~1.0  ████████████
 ```
 
-`Python` `LangChain` `Pinecone` `Cohere` `FastAPI` `Docker`
+`Python` `LangChain` `Pinecone` `Cohere` `Groq` `FastAPI` `Docker`
 
 > 🔒 Private — monetization in progress
 
@@ -235,6 +242,6 @@ Comparative study of RNN baseline vs CLIP+GPT-2 vs BLIP on Flickr30K. Demonstrat
 
 *Currently open to AI Engineer and Full Stack roles in Lahore and Dubai.*
 
-[![Portfolio](https://img.shields.io/badge/→_See_My_Work-taha--portfolio.vercel.app-6D28D9?style=for-the-badge&logoColor=white)](https://tahatanvir-dev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/→_See_My_Work-tahatanvir--dev.vercel.app-6D28D9?style=for-the-badge&logoColor=white)](https://tahatanvir-dev.vercel.app)
 
 </div>
