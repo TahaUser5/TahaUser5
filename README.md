@@ -218,8 +218,7 @@ Comparative study of RNN baseline vs CLIP+GPT-2 vs BLIP on Flickr30K. Demonstrat
 
 ## `> trophy_case`
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=TahaUser5&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=TahaUser5&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 ## `> cat stats.json`
 
 <div align="center">
