@@ -132,7 +132,7 @@ Improvement:      +47%    relative
 
 `PyTorch` `Diffusers` `SDXL` `LoRA` `CLIP` `rembg`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/TahaUser5)
+[![Repo](https://img.shields.io/badge/View_Repo-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/TahaUser5/dreambooth-lora-sdxl)
 
 </td>
 </tr>
@@ -178,7 +178,8 @@ Pre-trained TTS deep learning models integrated via Flask backend for high-fidel
 
 `Python` `Flask` `Deep Learning` `TTS` `Flutter` `Firebase`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/TahaUser5)
+[![Repo](https://img.shields.io/badge/View_Repo-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/TahaUser5/voca-twin)
+
 
 </td>
 <td width="50%">
