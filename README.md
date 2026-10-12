@@ -34,7 +34,7 @@ Currently completing my MPhil in AI at PUCIT. I care about one thing: AI that ac
 Current focus:  Production RAG · Generative AI · Multimodal Systems
 Background:     Full Stack Engineering (MERN · FastAPI · Flutter)  
 Research:       Published HAR paper · CNN-LSTM multimodal fusion
-Next stop:      AI Engineer roles — Lahore → Dubai → Ireland
+Next stop:      AI Engineer roles — Lahore 
 ```
 
 ---
@@ -243,7 +243,7 @@ Comparative study of RNN baseline vs CLIP+GPT-2 vs BLIP on Flickr30K. Demonstrat
 
 <div align="center">
 
-*Currently open to AI Engineer and Full Stack roles in Lahore and Dubai.*
+*Currently open to AI Engineer and Full Stack roles in Lahore.*
 
 [![Portfolio](https://img.shields.io/badge/→_See_My_Work-tahatanvir--dev.vercel.app-6D28D9?style=for-the-badge&logoColor=white)](https://tahatanvir-dev.vercel.app)
 
