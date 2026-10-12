@@ -110,13 +110,15 @@ Next stop:      AI Engineer roles — Lahore
 Hybrid retrieval combining dense vector search (HuggingFace + Pinecone) and BM25, with Cohere reranking and Groq generation. Plug-and-play retriever/LLM architecture deployed via FastAPI + Docker + Streamlit.
 
 ```
-Faithfulness:       1.0   ████████████
+Faithfulness:  0.91  (independent judge, 20-question benchmark)
 Context Precision:  ~1.0  ████████████
 ```
 
 `Python` `LangChain` `Pinecone` `Cohere` `Groq` `FastAPI` `Docker`
 
-> 🔒 Private 
+> 🔒 Full system is private, the evaluation case study is public
+
+[![Case Study](https://img.shields.io/badge/View_Case_Study-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/TahaUser5/rag-reliability-case-study)
 
 </td>
 <td width="50%">
